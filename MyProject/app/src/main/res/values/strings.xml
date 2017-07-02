@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyProject</string>
+    <string name="text_favorites">首页</string>
+    <string name="text_schedules">发现</string>
+    <string name="text_messages">消息</string>
+    <string name="text_music">我</string>
+</resources>
